@@ -6,7 +6,8 @@
     "gulp",
     "bower",
     "tasks",
-    "blogs",
+    "globs",
+    "globbing",
     "library",
     "libraries"
   ],
